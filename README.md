@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+<img src="Screenshot_20260209_220806.png">
+</img>
+
 <pre>
 import 'package:flutter/material.dart';
 
